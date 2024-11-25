@@ -1,3 +1,6 @@
+> [!NOTE]
+> This README is currently being updated. Some sections may be incomplete or undergoing revisions. Thank you for your patience!
+
 # News Article Data Analysis and Interpretation
 The goal of this project is to use R to analyze and evaluate news article data. The project is divided into two components: data analysis and data interpretation. The analysis was carried out in R, where I parsed JSON data, examined the dataset, and created visualizations. Understanding the results and generating conclusions from the examined data are both part of the interpretation process.
 
